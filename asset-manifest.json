@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-checkpoint/static/css/main.c2cab247.css",
+    "main.js": "/react-checkpoint/static/js/main.7bed3b1c.js",
+    "index.html": "/react-checkpoint/index.html",
+    "main.c2cab247.css.map": "/react-checkpoint/static/css/main.c2cab247.css.map",
+    "main.7bed3b1c.js.map": "/react-checkpoint/static/js/main.7bed3b1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.7bed3b1c.js"
+  ]
+}
